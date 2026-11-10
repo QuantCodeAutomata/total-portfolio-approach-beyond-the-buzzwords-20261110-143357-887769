@@ -1,0 +1,21 @@
+{
+  "beta_equity": 0.502,
+  "beta_bond": 0.142,
+  "cost_of_capital": 0.0595312,
+  "expected_return": 0.0646,
+  "spread": 0.005068800000000005,
+  "funding_gap": 0.356,
+  "own_risk": 0.0613,
+  "appraisal_ratio": 0.08268841761827088,
+  "funding_decomposition_per_100": {
+    "sell_global_equity": 50.2,
+    "sell_bonds": 14.2,
+    "use_cash": 35.6
+  },
+  "expected": {
+    "cost_of_capital": 0.0595,
+    "spread": 0.0051,
+    "funding_gap": 0.356,
+    "appraisal_ratio": 0.08
+  }
+}

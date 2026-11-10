@@ -1,0 +1,8 @@
+{
+  "with_borrowing_bps": 22.16,
+  "no_borrowing_bps": 15.61,
+  "shadow_price_cash_bps": 58.8,
+  "expected_with_borrowing_bps": 26.06,
+  "expected_no_borrowing_bps": 18.08,
+  "expected_price_of_cash_bps": 71.1
+}

@@ -1,0 +1,89 @@
+{
+  "two_etfs_borrowing": {
+    "weights_pct": {
+      "IWN": 10.1,
+      "HYG": 21.9
+    },
+    "borrowing_pct": 10.0,
+    "completion_equity_pct": 38.6,
+    "completion_bond_pct": 39.4,
+    "cash_pct": -10.0,
+    "value_add_bps": 18.21,
+    "expected_value_add_bps": 21.0,
+    "active_risk_bps": 200.0,
+    "shadow_price_cash_pct": 0.0,
+    "total_vol_pct": 10.49,
+    "m2_haircut_bps": 7.13,
+    "honest_value_add_bps": 11.07,
+    "success": true,
+    "message": "optimal"
+  },
+  "three_etfs_no_borrowing": {
+    "weights_pct": {
+      "IWN": 11.6,
+      "HYG": 17.8,
+      "TLT": 9.8
+    },
+    "borrowing_pct": null,
+    "completion_equity_pct": 39.4,
+    "completion_bond_pct": 21.2,
+    "cash_pct": 0.0,
+    "value_add_bps": 12.04,
+    "expected_value_add_bps": 13.1,
+    "active_risk_bps": 200.0,
+    "shadow_price_cash_pct": 0.676,
+    "total_vol_pct": 10.49,
+    "m2_haircut_bps": 7.13,
+    "honest_value_add_bps": 4.91,
+    "success": true,
+    "message": "optimal"
+  },
+  "seven_etfs_borrowing": {
+    "weights_pct": {
+      "DBC": 7.5,
+      "IWN": 7.6,
+      "VNQ": 0.1,
+      "HYG": 15.2,
+      "EMB": 0.0,
+      "LQD": 0.0,
+      "TLT": 0.0
+    },
+    "borrowing_pct": 18.4,
+    "completion_equity_pct": 39.9,
+    "completion_bond_pct": 48.2,
+    "cash_pct": -18.4,
+    "value_add_bps": 22.16,
+    "expected_value_add_bps": 26.1,
+    "active_risk_bps": 200.0,
+    "shadow_price_cash_pct": 0.0,
+    "total_vol_pct": 10.49,
+    "m2_haircut_bps": 7.13,
+    "honest_value_add_bps": 15.03,
+    "success": true,
+    "message": "optimal"
+  },
+  "seven_etfs_no_borrowing": {
+    "weights_pct": {
+      "DBC": 1.7,
+      "IWN": 5.1,
+      "VNQ": 9.7,
+      "HYG": 8.1,
+      "EMB": 0.0,
+      "LQD": 0.0,
+      "TLT": 0.9
+    },
+    "borrowing_pct": null,
+    "completion_equity_pct": 39.6,
+    "completion_bond_pct": 34.8,
+    "cash_pct": 0.0,
+    "value_add_bps": 15.61,
+    "expected_value_add_bps": 18.1,
+    "active_risk_bps": 200.0,
+    "shadow_price_cash_pct": 0.588,
+    "total_vol_pct": 10.49,
+    "m2_haircut_bps": 7.13,
+    "honest_value_add_bps": 8.48,
+    "success": true,
+    "message": "optimal"
+  }
+}

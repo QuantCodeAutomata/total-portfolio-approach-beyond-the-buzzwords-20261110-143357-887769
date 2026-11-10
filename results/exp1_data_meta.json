@@ -1,0 +1,197 @@
+{
+  "ticker_details": [
+    {
+      "ticker": "ACWI",
+      "alias": "acwi",
+      "columns": [
+        "ACWI_open",
+        "ACWI_high",
+        "ACWI_low",
+        "ACWI_close",
+        "ACWI_volume"
+      ],
+      "data_source": "massive",
+      "security_id": "BBG001S56QV7",
+      "identity_method": "figi",
+      "window": [
+        "2008-03-31",
+        "2026-03-01"
+      ],
+      "adjusted_for_dividends": true,
+      "price_decimals": 4
+    },
+    {
+      "ticker": "IEF",
+      "alias": "ief",
+      "columns": [
+        "IEF_open",
+        "IEF_high",
+        "IEF_low",
+        "IEF_close",
+        "IEF_volume"
+      ],
+      "data_source": "massive",
+      "security_id": "BBG001S80936",
+      "identity_method": "figi",
+      "window": [
+        "2008-03-31",
+        "2026-03-01"
+      ],
+      "adjusted_for_dividends": true,
+      "price_decimals": 4
+    },
+    {
+      "ticker": "DBC",
+      "alias": "dbc",
+      "columns": [
+        "DBC_open",
+        "DBC_high",
+        "DBC_low",
+        "DBC_close",
+        "DBC_volume"
+      ],
+      "data_source": "massive",
+      "security_id": "BBG001SNZTS4",
+      "identity_method": "figi",
+      "window": [
+        "2018-06-01",
+        "2026-03-01"
+      ],
+      "warnings": [
+        "start moved to 2018-06-01"
+      ],
+      "adjusted_for_dividends": true,
+      "price_decimals": 4
+    },
+    {
+      "ticker": "IWN",
+      "alias": "iwn",
+      "columns": [
+        "IWN_open",
+        "IWN_high",
+        "IWN_low",
+        "IWN_close",
+        "IWN_volume"
+      ],
+      "data_source": "massive",
+      "security_id": "BBG001S56277",
+      "identity_method": "figi",
+      "window": [
+        "2008-03-31",
+        "2026-03-01"
+      ],
+      "adjusted_for_dividends": true,
+      "price_decimals": 4
+    },
+    {
+      "ticker": "VNQ",
+      "alias": "vnq",
+      "columns": [
+        "VNQ_open",
+        "VNQ_high",
+        "VNQ_low",
+        "VNQ_close",
+        "VNQ_volume"
+      ],
+      "data_source": "massive",
+      "security_id": "BBG001SMD2X3",
+      "identity_method": "figi",
+      "window": [
+        "2008-03-31",
+        "2026-03-01"
+      ],
+      "adjusted_for_dividends": true,
+      "price_decimals": 4
+    },
+    {
+      "ticker": "HYG",
+      "alias": "hyg",
+      "columns": [
+        "HYG_open",
+        "HYG_high",
+        "HYG_low",
+        "HYG_close",
+        "HYG_volume"
+      ],
+      "data_source": "massive",
+      "security_id": "BBG001ST0ZQ7",
+      "identity_method": "figi",
+      "window": [
+        "2008-03-31",
+        "2026-03-01"
+      ],
+      "adjusted_for_dividends": true,
+      "price_decimals": 4
+    },
+    {
+      "ticker": "EMB",
+      "alias": "emb",
+      "columns": [
+        "EMB_open",
+        "EMB_high",
+        "EMB_low",
+        "EMB_close",
+        "EMB_volume"
+      ],
+      "data_source": "massive",
+      "security_id": "BBG001SQS9Y2",
+      "identity_method": "figi",
+      "window": [
+        "2009-06-11",
+        "2026-03-01"
+      ],
+      "warnings": [
+        "start moved to 2009-06-11"
+      ],
+      "adjusted_for_dividends": true,
+      "price_decimals": 4
+    },
+    {
+      "ticker": "LQD",
+      "alias": "lqd",
+      "columns": [
+        "LQD_open",
+        "LQD_high",
+        "LQD_low",
+        "LQD_close",
+        "LQD_volume"
+      ],
+      "data_source": "massive",
+      "security_id": "BBG001S60QR6",
+      "identity_method": "figi",
+      "window": [
+        "2008-03-31",
+        "2026-03-01"
+      ],
+      "adjusted_for_dividends": true,
+      "price_decimals": 4
+    },
+    {
+      "ticker": "TLT",
+      "alias": "tlt",
+      "columns": [
+        "TLT_open",
+        "TLT_high",
+        "TLT_low",
+        "TLT_close",
+        "TLT_volume"
+      ],
+      "data_source": "massive",
+      "security_id": "BBG001S8MLN3",
+      "identity_method": "figi",
+      "window": [
+        "2008-03-31",
+        "2026-03-01"
+      ],
+      "adjusted_for_dividends": true,
+      "price_decimals": 4
+    }
+  ],
+  "failed": {},
+  "non_massive_source": {},
+  "n_months": 216,
+  "date_range": [
+    "2008-04-01 00:00:00",
+    "2026-03-01 00:00:00"
+  ]
+}

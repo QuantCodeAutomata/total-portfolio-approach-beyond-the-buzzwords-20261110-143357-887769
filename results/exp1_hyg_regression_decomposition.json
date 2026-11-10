@@ -1,0 +1,12 @@
+{
+  "beta_equity": 0.4934026122820813,
+  "beta_bond": 0.183708967328891,
+  "funding_gap": 0.32288842038902765,
+  "decomposition_per_100": {
+    "sell_global_equity": 49.340261228208135,
+    "sell_bonds": 18.3708967328891,
+    "use_cash": 32.288842038902764
+  },
+  "n_obs": 216,
+  "r_squared": 0.6177607705589208
+}
